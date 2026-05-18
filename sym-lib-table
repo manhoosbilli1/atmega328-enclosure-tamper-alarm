@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tps62933pdrlr")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPS62933PDRLR/tps62933pdrlr.kicad_sym")(options "")(descr ""))
+  (lib (name "lm5158qrterq1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LM5158QRTERQ1/lm5158qrterq1.kicad_sym")(options "")(descr ""))
+  (lib (name "1ts005f-2500-5001")(type "KiCad")(uri "${KIPRJMOD}/Libraries/1TS005F-2500-5001/1ts005f-2500-5001.kicad_sym")(options "")(descr ""))
+  (lib (name "fdc610pz")(type "KiCad")(uri "${KIPRJMOD}/Libraries/FDC610PZ/fdc610pz.kicad_sym")(options "")(descr ""))
+  (lib (name "ltc4412es6#trpbf")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LTC4412ES6#TRPBF/ltc4412es6#trpbf.kicad_sym")(options "")(descr ""))
+  (lib (name "si4435dy_c4355022")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SI4435DY/si4435dy_c4355022.kicad_sym")(options "")(descr ""))
+  (lib (name "ltc2960cts8-1#trmpbf")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LTC2960CTS8-1#TRMPBF/ltc2960cts8-1#trmpbf.kicad_sym")(options "")(descr ""))
+)

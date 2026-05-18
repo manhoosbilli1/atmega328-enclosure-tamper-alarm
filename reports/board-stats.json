@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "date": "2026-05-18T04:22:51",
+    "generator": "KiCad 10.0.1",
+    "project": "Alarming_AC_Enclosure",
+    "board_name": "Alarming_AC_Enclosure"
+  },
+  "board": {
+    "has_outline": true,
+    "width": "100.0000 mm",
+    "height": "60.0000 mm",
+    "area": "5978.517 mm²",
+    "front_component_density": "29.65",
+    "back_component_density": "4.86",
+    "front_copper_area": "2631.276 mm²",
+    "back_copper_area": "5563.338 mm²",
+    "min_track_clearance": "0.2000 mm",
+    "min_track_width": "0.2000 mm",
+    "min_drill_diameter": "0.3000 mm",
+    "board_thickness": "1.6000 mm",
+    "front_footprint_area": "1772.43 mm²",
+    "back_footprint_area": "290.493 mm²",
+    "front_footprint_density": "29.65",
+    "back_footprint_density": "4.86"
+  },
+  "pads": {
+    "through_hole": 27,
+    "smd": 257,
+    "connector": 0,
+    "npth": 0,
+    "castellated": 0,
+    "press_fit": 0
+  },
+  "vias": {
+    "through": 295,
+    "blind": 0,
+    "buried": 0,
+    "micro": 0
+  },
+  "components": {
+    "tht": {
+      "front": 7,
+      "back": 0,
+      "total": 7
+    },
+    "smd": {
+      "front": 69,
+      "back": 0,
+      "total": 69
+    },
+    "unspecified": {
+      "front": 22,
+      "back": 0,
+      "total": 22
+    },
+    "total": {
+      "front": 98,
+      "back": 0,
+      "total": 98
+    }
+  },
+  "drill_holes": [
+    {
+      "count": 295,
+      "shape": "Round",
+      "x_size": "0.3000 mm",
+      "y_size": "0.3000 mm",
+      "plated": true,
+      "source": "Via",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 15,
+      "shape": "Round",
+      "x_size": "1.2000 mm",
+      "y_size": "1.2000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 6,
+      "shape": "Round",
+      "x_size": "3.2000 mm",
+      "y_size": "3.2000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 6,
+      "shape": "Round",
+      "x_size": "1.0000 mm",
+      "y_size": "1.0000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    }
+  ]
+}

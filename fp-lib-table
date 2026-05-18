@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS62933PDRLR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPS62933PDRLR")(options "")(descr ""))
+  (lib (name "LM5158QRTERQ1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LM5158QRTERQ1")(options "")(descr ""))
+  (lib (name "1TS005F-2500-5001")(type "KiCad")(uri "${KIPRJMOD}/Libraries/1TS005F-2500-5001")(options "")(descr ""))
+  (lib (name "FDC610PZ")(type "KiCad")(uri "${KIPRJMOD}/Libraries/FDC610PZ")(options "")(descr ""))
+  (lib (name "LTC4412ES6#TRPBF")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LTC4412ES6#TRPBF")(options "")(descr ""))
+  (lib (name "SI4435DY")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SI4435DY")(options "")(descr ""))
+  (lib (name "LTC2960CTS8-1#TRMPBF")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LTC2960CTS8-1#TRMPBF")(options "")(descr ""))
+  (lib (name "LOGO")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LOGO")(options "")(descr ""))
+)

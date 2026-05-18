@@ -1,0 +1,16 @@
+# KiCad
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+fp-info-cache
+~*.lck
+_autosave-*
+.history/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
